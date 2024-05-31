@@ -8,7 +8,4 @@ Repository of assets related to the Etherium Virtual Machine.
 * Token Data : Each folder contains 50 .json files , Files for 1249 listed erc20 tokens.
 * Dapps folders contain 450+ Logo's of Decentralized applications found on the web.
 ************************************************************************************************************** 
-<img src="dapps-1/0x.org.png" style="display: inline-block; margin-right: 10px;"><img src="dapps-1/aave.com.png" style="display: inline-block; margin-right: 10px;"><img src="dapps-1/aavegotchi.com.png" style="display: inline-block; margin-right: 10px;"><img src="image3.jpg" style="display: inline-block;">
-<img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;">
-<img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;">
-<img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;"><img src="image3.jpg" style="display: inline-block;">
+
