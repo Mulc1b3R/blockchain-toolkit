@@ -7,5 +7,6 @@ Repository of assets related to the Etherium Virtual Machine.
 * Token Lists consist of 25 .html files of 1249 erc20 tokens with token images and hypertext links to Contracts.
 * Token Data : Each folder contains 50 .json files , Files for 1249 listed erc20 tokens.
 * Dapps folders contain 450+ Logo's of Decentralized applications found on the web.
+* Blockchain-demo-code : Folder contains the code for a functioning blockchain demonstration in javascript.
 ************************************************************************************************************** 
 
