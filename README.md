@@ -1,7 +1,9 @@
 # Blockchain-assets
  Blockchain assets. Web3 functionallity.Blockchain code. Token data.Dapp's. Logo's.
 **************************************************************************************************************
-Repository of assets related to the Etherium Virtual Machine.
+Repository of assets related to all the blockchains , coins , tokens .
+The largest blockchain repository on the world wide web .
+To submit your data send via email , with details and assets to be included , to :  disobay@proton.me
 **************************************************************************************************************
 * erc20 Token contracts - All @openzepplin .sol token contract types.
 * Token Lists consist of 25 .html files of 1249 erc20 tokens with token images and hypertext links to Contracts.
