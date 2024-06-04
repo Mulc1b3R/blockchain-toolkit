@@ -1,0 +1,7 @@
+About VNX
+VNX (www.vnx.io) is a Luxembourg-based digital asset issuance platform.
+ VNX developed an end-to-end regulatory compliant platform to organize digital assets 
+ offerings that includes the development of the design and structure of the offering,
+ investor relations, issuance and after issuance support. VNX Platform provides a simple
+ and user-friendly process for regular and 
+professional investors to participate in the digital asset offerings alongside the lead investor.

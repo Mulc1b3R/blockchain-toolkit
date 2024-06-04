@@ -1,0 +1,5 @@
+TACOSwap is a Dex Defi protocol & Yield Farm, designed to be the next evolution.
+ Taking Sushiswap’s liquidity focused strategy, they have added fiat on-ramp and 
+ off-ramp and rewards for liquidity providers while improving the payout rate to 0.5%. 
+ Further developments will look to
+ improve functionality & integration of the DEX into the Defi and Cefi space.
