@@ -12,5 +12,6 @@ To submit your data send via email , with details and assets to be included , to
 * Blockchain-demo-code : Folder contains the code for a functioning blockchain demonstration in javascript.
 * Blockchains : Folders contain data and information on 175 Blockchains.
 * Web3 : Folder contains all the code needed to link 'metamask' functionallity to a webpage.
+* Etherium folder contains data on over 7000 erc20 tokens.
 ************************************************************************************************************** 
 
