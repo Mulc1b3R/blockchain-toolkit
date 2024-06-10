@@ -1,0 +1,17 @@
+What is JellySwap?
+
+JellySwap is a DEX but not a usual one.
+ It works on several blockchains and aims to solve the interoperability 
+ issues between the different networks – a huge problem discussed lately within 
+ the whole crypto community. It enables value transfer between different chains
+ such as BTC<>ETH. Despite the ambitious technology it’s based on, Jelly has
+ a maximally Uniswap-like UX – simple and intuitive. It is a 100% decentralized,
+ non-custodial and permissionless app. Apart from swapping coins, 
+ Jelly also enables everyone to provide liquidity and to become market makers in order 
+ to earn profit. At the beginning of August, we released a mobile wallet which, 
+ as far as we are aware, is the first of its kind for cross-chain trades via phone. 
+ Our next goal – integrating more networks (Avalanche, Algorand, Harmony, etc.).
+ It’s high time to build a solid infrastructure that allows exchange of native 
+ coins between different chains in a smooth and trustless way!
+Website:
+https://jelly.market/
